@@ -3,6 +3,8 @@
 
 Monterey kde is a MacOS Monterey like theme for KDE Plasma desktop.
 
+Currently Monterey Dark by vince Liuice available for download in KDE is not working properly as it is not up to date, when the problem is fixed I will remove this one, the intention is just to facilitate the installation without the need to correct the problem every time I install.
+
 In this repository you'll find:
 
 - Aurorae Theme
